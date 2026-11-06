@@ -1,0 +1,20 @@
+{
+    "algorithm": "Bayesian Knowledge Tracing",
+    "parameter_fit_status": "fitted_on_training_students",
+    "parameters": {
+        "p_init": 0.5817944316198335,
+        "p_learn": 0.0497154583812692,
+        "p_guess": 0.23915347279059268,
+        "p_slip": 0.12218699880431225
+    },
+    "training_student_count": 1600,
+    "heldout_student_count": 400,
+    "training_sequence_count": 59406,
+    "interaction_count": 300000,
+    "mastery_bands": {
+        "Needs Support": "mastery_probability <= 0.40",
+        "Developing": "0.40 < mastery_probability <= 0.70",
+        "Mastered": "mastery_probability > 0.70"
+    },
+    "note": "Mastery is a probabilistic estimate, not a verified measure of actual knowledge. It updates after each recorded answer."
+}

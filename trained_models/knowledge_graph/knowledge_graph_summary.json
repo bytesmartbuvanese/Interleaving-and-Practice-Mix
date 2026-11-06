@@ -1,0 +1,11 @@
+{
+  "total_nodes": 1413,
+  "total_edges": 1440,
+  "subject_count": 3,
+  "topic_count": 15,
+  "subtopic_count": 45,
+  "question_count": 1350,
+  "prerequisite_relationship_count": 30,
+  "unresolved_prerequisite_count": 0,
+  "cycle_count": 0
+}

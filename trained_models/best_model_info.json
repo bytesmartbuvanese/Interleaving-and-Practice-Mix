@@ -1,0 +1,60 @@
+{
+    "best_model": "XGBoost",
+    "selection_metric": "validation_accuracy",
+    "validation_accuracy": 0.7677111111111111,
+    "validation_roc_auc": 0.8226902480772126,
+    "decision_threshold": 0.47000000000000014,
+    "test_metrics": {
+        "Model": "Tuned XGBoost",
+        "Threshold": 0.47000000000000014,
+        "Accuracy": 0.7565777777777778,
+        "Precision": 0.771530650620534,
+        "Recall": 0.8704476345378687,
+        "F1_Score": 0.8180096361521847,
+        "ROC_AUC": 0.8202728238987006,
+        "Brier_Score": 0.16386640071868896
+    },
+    "features_numeric": [
+        "grade_level",
+        "difficulty_level",
+        "estimated_solving_time_sec",
+        "marks_allocated",
+        "attempt_number",
+        "subtopic_previous_attempts",
+        "subtopic_prior_accuracy",
+        "subtopic_recent_accuracy_5",
+        "subject_previous_attempts",
+        "subject_prior_accuracy",
+        "subject_recent_accuracy_5",
+        "subtopic_prior_avg_response_ms",
+        "days_since_subtopic_practice",
+        "student_previous_attempts",
+        "student_prior_accuracy"
+    ],
+    "features_categorical": [
+        "educational_tier",
+        "institution_type",
+        "subject_id",
+        "topic_id",
+        "subtopic_id",
+        "question_type"
+    ],
+    "target": "is_correct",
+    "split_method": "GroupShuffleSplit by student",
+    "exam_percentage_used": false,
+    "future_session_statistics_used": false,
+    "best_parameters": {
+        "subsample": 0.75,
+        "reg_lambda": 4.0,
+        "reg_alpha": 0.05,
+        "n_estimators": 300,
+        "min_child_weight": 4,
+        "max_depth": 5,
+        "learning_rate": 0.04,
+        "gamma": 0.0,
+        "colsample_bytree": 0.95
+    },
+    "train_students": 1400,
+    "validation_students": 300,
+    "test_students": 300
+}

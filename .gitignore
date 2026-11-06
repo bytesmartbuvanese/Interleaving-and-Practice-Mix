@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build and test artifacts
+build/
+dist/
+.pytest_cache/
+.coverage
+
+# Local environment and editor files
+.env
+.idea/
+.vscode/
+.DS_Store
+trained_models/difficulty_engine/question_recommendations.csv

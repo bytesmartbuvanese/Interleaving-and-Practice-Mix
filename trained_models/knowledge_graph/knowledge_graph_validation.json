@@ -1,0 +1,11 @@
+{
+  "missing_subject_references": [],
+  "missing_topic_references": [],
+  "missing_subtopic_references": [],
+  "questions_without_valid_subtopics": [],
+  "unresolved_prerequisites": [],
+  "prerequisite_cycles": [],
+  "self_prerequisites": [],
+  "duplicate_identifiers": [],
+  "invalid_attributes": []
+}

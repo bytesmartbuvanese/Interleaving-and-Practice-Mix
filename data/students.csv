@@ -1,0 +1,2001 @@
+student_id,educational_tier,grade_level,institution_type,preferred_language,profile_creation_timestamp
+STU_0001,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0002,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0003,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0004,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0005,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0006,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_0007,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0008,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0009,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0010,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0011,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0012,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0013,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0014,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0015,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0016,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0017,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0018,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0019,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0020,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0021,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0022,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0023,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0024,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0025,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0026,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0027,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0028,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0029,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0030,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0031,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0032,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0033,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0034,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0035,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0036,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_0037,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0038,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0039,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0040,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_0041,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_0042,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0043,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0044,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0045,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0046,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0047,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0048,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0049,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0050,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0051,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0052,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0053,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_0054,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0055,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0056,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0057,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0058,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0059,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_0060,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0061,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0062,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_0063,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0064,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0065,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0066,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0067,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0068,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0069,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0070,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0071,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0072,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0073,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_0074,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0075,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0076,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0077,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0078,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0079,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0080,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0081,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0082,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0083,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0084,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0085,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0086,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0087,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_0088,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0089,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0090,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0091,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0092,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0093,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0094,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0095,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0096,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0097,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_0098,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0099,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0100,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_0101,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0102,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0103,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0104,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0105,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0106,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0107,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0108,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0109,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0110,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0111,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0112,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0113,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0114,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0115,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0116,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0117,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0118,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0119,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0120,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0121,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0122,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0123,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0124,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0125,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0126,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0127,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0128,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0129,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_0130,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0131,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0132,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0133,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0134,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0135,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0136,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0137,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0138,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0139,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0140,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0141,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0142,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0143,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0144,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0145,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_0146,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0147,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0148,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0149,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0150,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0151,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0152,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0153,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0154,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0155,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0156,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0157,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0158,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0159,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0160,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0161,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0162,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0163,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0164,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0165,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0166,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0167,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0168,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0169,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0170,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0171,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0172,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0173,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0174,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0175,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_0176,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0177,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0178,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0179,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0180,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_0181,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0182,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0183,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_0184,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0185,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0186,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0187,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0188,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0189,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0190,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0191,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0192,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0193,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0194,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0195,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_0196,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0197,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0198,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0199,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0200,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0201,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0202,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0203,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0204,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0205,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0206,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0207,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0208,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0209,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0210,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0211,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0212,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0213,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0214,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0215,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0216,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0217,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0218,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0219,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0220,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0221,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0222,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0223,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0224,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0225,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0226,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0227,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0228,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0229,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0230,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0231,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0232,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0233,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0234,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0235,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0236,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0237,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0238,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0239,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0240,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0241,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0242,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0243,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0244,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0245,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0246,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0247,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0248,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0249,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0250,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0251,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0252,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0253,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0254,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0255,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0256,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0257,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0258,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0259,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0260,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0261,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0262,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0263,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0264,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0265,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0266,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0267,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0268,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0269,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0270,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0271,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0272,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_0273,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0274,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0275,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_0276,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_0277,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0278,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0279,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0280,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0281,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0282,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0283,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0284,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0285,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0286,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0287,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0288,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0289,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0290,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0291,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0292,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0293,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0294,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0295,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_0296,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0297,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0298,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0299,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0300,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0301,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0302,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0303,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0304,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0305,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_0306,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0307,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0308,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0309,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0310,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0311,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0312,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0313,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0314,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0315,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0316,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0317,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0318,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0319,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0320,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0321,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0322,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0323,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0324,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0325,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0326,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0327,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0328,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0329,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0330,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0331,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0332,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0333,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0334,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0335,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0336,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_0337,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0338,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0339,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0340,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0341,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0342,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0343,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0344,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0345,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0346,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0347,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0348,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0349,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0350,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0351,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0352,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0353,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0354,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0355,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0356,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0357,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0358,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0359,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_0360,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0361,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0362,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0363,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0364,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0365,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0366,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0367,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0368,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0369,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0370,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0371,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0372,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0373,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0374,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0375,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0376,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0377,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_0378,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0379,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0380,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0381,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0382,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0383,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0384,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0385,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0386,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0387,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0388,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0389,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0390,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0391,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0392,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0393,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0394,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0395,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0396,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0397,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0398,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0399,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0400,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0401,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0402,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0403,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0404,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0405,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0406,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0407,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0408,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0409,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0410,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0411,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0412,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0413,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0414,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0415,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0416,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0417,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0418,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_0419,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0420,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0421,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0422,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0423,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0424,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0425,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0426,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0427,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0428,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0429,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0430,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0431,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0432,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0433,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0434,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_0435,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_0436,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0437,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0438,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0439,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_0440,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0441,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0442,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0443,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0444,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0445,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0446,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0447,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0448,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0449,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0450,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0451,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0452,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0453,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0454,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0455,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0456,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0457,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0458,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0459,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0460,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0461,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0462,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0463,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0464,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0465,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0466,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0467,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0468,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0469,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0470,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0471,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0472,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0473,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0474,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0475,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0476,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0477,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0478,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0479,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0480,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0481,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0482,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0483,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0484,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_0485,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0486,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0487,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0488,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0489,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0490,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0491,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0492,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_0493,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0494,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0495,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0496,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0497,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0498,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0499,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0500,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0501,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0502,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0503,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0504,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0505,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0506,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0507,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0508,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0509,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0510,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0511,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0512,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0513,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0514,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0515,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0516,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0517,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0518,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0519,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0520,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0521,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0522,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0523,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_0524,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0525,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0526,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_0527,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0528,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0529,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0530,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0531,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0532,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0533,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0534,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0535,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0536,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0537,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0538,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0539,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0540,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0541,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0542,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0543,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0544,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_0545,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0546,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0547,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0548,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0549,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0550,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0551,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0552,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0553,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0554,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0555,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0556,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0557,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0558,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0559,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0560,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0561,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0562,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0563,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_0564,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_0565,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0566,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0567,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_0568,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0569,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0570,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0571,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0572,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0573,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0574,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0575,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0576,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0577,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0578,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0579,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0580,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0581,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0582,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0583,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0584,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0585,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0586,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0587,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0588,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0589,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0590,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0591,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0592,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0593,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0594,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0595,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_0596,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_0597,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0598,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0599,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0600,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0601,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0602,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0603,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0604,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0605,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0606,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0607,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0608,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0609,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0610,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0611,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0612,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0613,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0614,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0615,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0616,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_0617,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0618,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0619,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0620,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0621,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0622,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0623,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0624,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0625,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0626,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0627,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0628,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0629,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0630,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0631,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0632,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0633,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0634,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0635,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0636,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0637,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0638,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0639,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0640,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0641,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0642,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0643,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0644,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_0645,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0646,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0647,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0648,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0649,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0650,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0651,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0652,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0653,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0654,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0655,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0656,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0657,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0658,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0659,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0660,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0661,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0662,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_0663,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0664,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0665,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0666,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0667,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0668,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0669,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0670,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0671,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0672,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0673,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0674,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0675,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0676,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0677,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0678,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0679,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0680,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_0681,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0682,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0683,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0684,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0685,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_0686,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0687,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0688,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0689,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0690,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0691,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0692,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0693,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0694,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0695,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0696,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0697,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0698,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0699,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0700,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0701,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0702,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_0703,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0704,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0705,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0706,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0707,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0708,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0709,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0710,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0711,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0712,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0713,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0714,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0715,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0716,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0717,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0718,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0719,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0720,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0721,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0722,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0723,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0724,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0725,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0726,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_0727,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0728,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0729,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0730,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0731,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0732,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0733,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0734,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0735,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0736,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0737,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0738,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0739,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_0740,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0741,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0742,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0743,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0744,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0745,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0746,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0747,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_0748,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0749,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0750,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0751,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0752,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0753,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0754,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0755,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0756,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0757,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0758,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0759,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0760,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0761,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0762,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0763,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0764,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0765,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0766,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0767,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0768,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_0769,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_0770,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0771,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0772,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_0773,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0774,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0775,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0776,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0777,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0778,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0779,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0780,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0781,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0782,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_0783,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0784,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0785,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_0786,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0787,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0788,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0789,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0790,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0791,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0792,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0793,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0794,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0795,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0796,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0797,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0798,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0799,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0800,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_0801,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0802,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0803,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0804,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0805,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0806,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0807,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0808,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0809,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0810,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0811,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_0812,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0813,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0814,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0815,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_0816,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0817,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0818,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_0819,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0820,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0821,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0822,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0823,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0824,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0825,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0826,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0827,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0828,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0829,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0830,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0831,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0832,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0833,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0834,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0835,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0836,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0837,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_0838,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0839,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0840,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0841,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0842,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0843,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0844,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_0845,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0846,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0847,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0848,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0849,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0850,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0851,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0852,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0853,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0854,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0855,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0856,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0857,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_0858,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0859,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0860,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0861,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0862,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0863,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0864,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0865,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_0866,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0867,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0868,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0869,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0870,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0871,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0872,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0873,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0874,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0875,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0876,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0877,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0878,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0879,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0880,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0881,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0882,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0883,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0884,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0885,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0886,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0887,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0888,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0889,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0890,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0891,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0892,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0893,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_0894,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0895,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0896,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0897,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0898,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0899,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0900,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0901,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0902,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0903,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0904,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0905,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0906,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0907,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0908,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0909,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0910,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_0911,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0912,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0913,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0914,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0915,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0916,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0917,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0918,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0919,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0920,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_0921,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_0922,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0923,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0924,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0925,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0926,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_0927,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0928,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0929,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0930,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0931,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0932,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0933,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0934,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0935,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0936,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0937,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0938,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_0939,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0940,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0941,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_0942,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0943,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0944,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0945,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0946,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0947,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0948,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_0949,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0950,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0951,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0952,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0953,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0954,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_0955,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0956,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0957,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0958,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0959,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0960,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0961,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0962,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_0963,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_0964,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0965,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0966,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0967,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_0968,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0969,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0970,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0971,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0972,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_0973,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0974,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0975,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_0976,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_0977,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0978,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_0979,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_0980,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_0981,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0982,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_0983,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0984,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0985,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_0986,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_0987,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0988,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0989,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_0990,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_0991,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0992,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0993,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_0994,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_0995,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0996,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_0997,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_0998,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_0999,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1000,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1001,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1002,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1003,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1004,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1005,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1006,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1007,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1008,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1009,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1010,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1011,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1012,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1013,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1014,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_1015,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1016,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1017,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1018,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1019,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1020,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1021,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1022,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1023,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1024,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1025,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1026,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1027,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1028,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1029,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1030,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1031,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1032,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1033,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1034,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1035,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1036,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1037,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1038,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1039,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1040,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1041,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1042,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1043,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1044,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1045,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1046,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1047,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_1048,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1049,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1050,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1051,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1052,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1053,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_1054,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1055,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_1056,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1057,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1058,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1059,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1060,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1061,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1062,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_1063,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1064,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1065,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1066,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1067,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1068,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1069,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1070,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1071,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1072,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1073,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1074,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1075,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1076,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1077,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1078,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1079,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1080,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1081,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1082,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1083,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1084,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1085,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1086,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1087,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1088,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1089,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1090,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1091,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1092,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1093,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1094,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_1095,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1096,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1097,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1098,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1099,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1100,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1101,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1102,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1103,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1104,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1105,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1106,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1107,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1108,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1109,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1110,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1111,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1112,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1113,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1114,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_1115,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1116,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1117,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1118,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1119,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1120,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1121,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1122,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1123,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1124,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1125,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1126,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1127,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1128,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1129,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1130,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1131,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1132,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1133,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1134,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1135,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1136,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1137,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1138,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1139,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1140,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1141,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1142,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1143,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1144,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1145,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1146,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1147,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1148,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1149,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_1150,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1151,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1152,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1153,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1154,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1155,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1156,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1157,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1158,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1159,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1160,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1161,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1162,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1163,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1164,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1165,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1166,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1167,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1168,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1169,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1170,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1171,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1172,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_1173,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1174,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1175,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1176,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1177,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1178,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1179,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1180,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1181,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_1182,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1183,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1184,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1185,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1186,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1187,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1188,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1189,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1190,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1191,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1192,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1193,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1194,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1195,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1196,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1197,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1198,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1199,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1200,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1201,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1202,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1203,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1204,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_1205,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1206,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1207,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1208,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1209,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1210,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1211,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1212,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1213,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1214,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1215,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_1216,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1217,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1218,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1219,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1220,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1221,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1222,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1223,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1224,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1225,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1226,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1227,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1228,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1229,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1230,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1231,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1232,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1233,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1234,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1235,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1236,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_1237,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1238,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1239,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1240,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1241,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1242,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1243,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1244,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1245,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1246,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1247,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1248,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1249,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1250,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1251,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_1252,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1253,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_1254,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1255,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1256,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1257,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1258,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1259,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1260,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1261,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1262,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1263,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1264,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1265,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1266,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1267,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1268,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1269,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1270,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1271,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1272,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1273,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1274,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1275,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1276,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1277,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1278,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1279,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1280,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1281,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1282,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1283,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1284,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1285,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1286,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_1287,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1288,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1289,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1290,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1291,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1292,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1293,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1294,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1295,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1296,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1297,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1298,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1299,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1300,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1301,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1302,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1303,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1304,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1305,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1306,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1307,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1308,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1309,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1310,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1311,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1312,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1313,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1314,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1315,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1316,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1317,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1318,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1319,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1320,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1321,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1322,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1323,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1324,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1325,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1326,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1327,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1328,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1329,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1330,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1331,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1332,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_1333,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1334,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1335,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1336,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1337,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1338,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1339,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1340,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1341,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1342,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1343,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_1344,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1345,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1346,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1347,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1348,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1349,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1350,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1351,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1352,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1353,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1354,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1355,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1356,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1357,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1358,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1359,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1360,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1361,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1362,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1363,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1364,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_1365,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1366,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1367,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1368,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_1369,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1370,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1371,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1372,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1373,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1374,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1375,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1376,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1377,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1378,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1379,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1380,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1381,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1382,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1383,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1384,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1385,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1386,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1387,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1388,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1389,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1390,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1391,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1392,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1393,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1394,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1395,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1396,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1397,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1398,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1399,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1400,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1401,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1402,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1403,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1404,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1405,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1406,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1407,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1408,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1409,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1410,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1411,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1412,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1413,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1414,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1415,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1416,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1417,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1418,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1419,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1420,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_1421,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1422,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1423,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1424,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1425,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1426,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1427,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1428,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1429,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1430,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_1431,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1432,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1433,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1434,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1435,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1436,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1437,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1438,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1439,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1440,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_1441,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1442,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1443,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1444,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1445,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1446,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1447,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1448,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1449,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1450,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_1451,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1452,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1453,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1454,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1455,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1456,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1457,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1458,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1459,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_1460,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1461,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1462,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1463,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1464,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1465,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1466,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1467,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1468,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1469,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1470,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1471,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1472,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1473,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1474,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1475,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1476,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1477,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1478,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1479,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1480,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1481,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1482,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1483,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1484,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1485,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1486,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1487,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1488,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1489,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1490,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1491,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1492,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1493,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1494,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1495,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1496,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1497,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1498,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1499,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1500,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1501,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_1502,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1503,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1504,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1505,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1506,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1507,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1508,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1509,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1510,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1511,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1512,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1513,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1514,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1515,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1516,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1517,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1518,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1519,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1520,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1521,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1522,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_1523,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1524,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1525,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1526,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1527,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_1528,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1529,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1530,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1531,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1532,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1533,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1534,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1535,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1536,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1537,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1538,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1539,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1540,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1541,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1542,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1543,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1544,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1545,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1546,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1547,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1548,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1549,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1550,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1551,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1552,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1553,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1554,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1555,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1556,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1557,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1558,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1559,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1560,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1561,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1562,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1563,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1564,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1565,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1566,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1567,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1568,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1569,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1570,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1571,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1572,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1573,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1574,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1575,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1576,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1577,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1578,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1579,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1580,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_1581,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1582,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1583,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1584,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1585,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1586,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1587,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1588,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1589,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1590,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1591,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1592,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1593,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1594,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1595,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1596,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1597,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_1598,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1599,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1600,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1601,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1602,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1603,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1604,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1605,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1606,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1607,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1608,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1609,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1610,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1611,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1612,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1613,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1614,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1615,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_1616,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1617,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1618,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1619,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1620,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1621,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1622,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1623,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1624,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1625,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_1626,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1627,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1628,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1629,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1630,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1631,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1632,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1633,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1634,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1635,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1636,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1637,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1638,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1639,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1640,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1641,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1642,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1643,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1644,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1645,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1646,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1647,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_1648,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1649,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1650,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1651,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1652,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1653,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1654,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_1655,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1656,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1657,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1658,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1659,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1660,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1661,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1662,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1663,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1664,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1665,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1666,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1667,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1668,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1669,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1670,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1671,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_1672,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1673,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1674,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1675,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1676,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1677,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1678,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1679,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1680,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1681,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1682,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_1683,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1684,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1685,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1686,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1687,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1688,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1689,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1690,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1691,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1692,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1693,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1694,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1695,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1696,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1697,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1698,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1699,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1700,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1701,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1702,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1703,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1704,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1705,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1706,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1707,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1708,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1709,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1710,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1711,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1712,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1713,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1714,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1715,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_1716,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1717,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1718,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1719,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1720,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1721,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1722,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_1723,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1724,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1725,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1726,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1727,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1728,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1729,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1730,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1731,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1732,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1733,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1734,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1735,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1736,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1737,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1738,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1739,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1740,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1741,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1742,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1743,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1744,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1745,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1746,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1747,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1748,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1749,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1750,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1751,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1752,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1753,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1754,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1755,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1756,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1757,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1758,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1759,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1760,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1761,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1762,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1763,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_1764,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1765,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1766,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1767,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1768,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1769,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1770,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1771,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1772,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1773,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1774,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1775,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1776,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1777,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1778,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1779,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1780,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1781,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1782,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1783,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1784,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1785,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1786,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1787,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1788,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1789,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1790,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1791,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1792,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1793,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1794,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1795,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1796,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1797,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1798,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1799,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1800,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1801,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1802,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1803,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1804,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1805,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1806,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1807,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_1808,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1809,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1810,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1811,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1812,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1813,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1814,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1815,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1816,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1817,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1818,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1819,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1820,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1821,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1822,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1823,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1824,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1825,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1826,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1827,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1828,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1829,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1830,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1831,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_1832,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1833,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1834,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1835,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1836,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1837,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1838,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1839,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1840,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1841,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1842,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1843,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1844,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1845,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1846,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1847,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1848,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1849,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1850,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1851,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1852,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1853,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1854,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_1855,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1856,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1857,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1858,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1859,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1860,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1861,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1862,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1863,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1864,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1865,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1866,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1867,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1868,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1869,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1870,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1871,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1872,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1873,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1874,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1875,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1876,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1877,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1878,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_1879,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1880,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1881,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1882,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1883,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1884,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1885,K-12,11,K-12 Public,English,2025-11-03T05:18:27
+STU_1886,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_1887,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1888,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1889,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1890,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1891,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1892,K-12,7,K-12 Public,English,2025-11-03T05:18:27
+STU_1893,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1894,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1895,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1896,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1897,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1898,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1899,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1900,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1901,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1902,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_1903,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1904,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1905,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1906,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1907,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_1908,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1909,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1910,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1911,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1912,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1913,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1914,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1915,K-12,10,K-12 Private,English,2025-11-03T05:18:27
+STU_1916,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1917,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1918,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1919,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1920,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1921,K-12,2,K-12 Public,English,2025-11-03T05:18:27
+STU_1922,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1923,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_1924,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1925,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1926,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1927,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1928,K-12,1,K-12 Public,English,2025-11-03T05:18:27
+STU_1929,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1930,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1931,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1932,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1933,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1934,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1935,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1936,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1937,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1938,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1939,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1940,K-12,11,K-12 Private,English,2025-11-03T05:18:27
+STU_1941,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1942,K-12,3,K-12 Public,English,2025-11-03T05:18:27
+STU_1943,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1944,K-12,9,K-12 Private,English,2025-11-03T05:18:27
+STU_1945,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1946,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1947,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1948,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1949,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1950,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1951,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1952,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1953,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1954,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1955,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1956,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1957,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1958,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1959,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1960,K-12,5,K-12 Private,English,2025-11-03T05:18:27
+STU_1961,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_1962,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1963,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1964,K-12,12,K-12 Private,English,2025-11-03T05:18:27
+STU_1965,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1966,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1967,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1968,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1969,K-12,6,K-12 Private,English,2025-11-03T05:18:27
+STU_1970,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1971,K-12,4,K-12 Public,English,2025-11-03T05:18:27
+STU_1972,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1973,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1974,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1975,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1976,K-12,1,K-12 Private,English,2025-11-03T05:18:27
+STU_1977,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1978,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1979,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1980,K-12,6,K-12 Public,English,2025-11-03T05:18:27
+STU_1981,University,1,Undergraduate,English,2025-11-03T05:18:27
+STU_1982,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1983,K-12,7,K-12 Private,English,2025-11-03T05:18:27
+STU_1984,K-12,3,K-12 Private,English,2025-11-03T05:18:27
+STU_1985,K-12,8,K-12 Private,English,2025-11-03T05:18:27
+STU_1986,K-12,9,K-12 Public,English,2025-11-03T05:18:27
+STU_1987,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1988,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1989,K-12,2,K-12 Private,English,2025-11-03T05:18:27
+STU_1990,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1991,University,2,Undergraduate,English,2025-11-03T05:18:27
+STU_1992,University,3,Undergraduate,English,2025-11-03T05:18:27
+STU_1993,K-12,5,K-12 Public,English,2025-11-03T05:18:27
+STU_1994,University,4,Undergraduate,English,2025-11-03T05:18:27
+STU_1995,K-12,8,K-12 Public,English,2025-11-03T05:18:27
+STU_1996,K-12,4,K-12 Private,English,2025-11-03T05:18:27
+STU_1997,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1998,K-12,12,K-12 Public,English,2025-11-03T05:18:27
+STU_1999,K-12,10,K-12 Public,English,2025-11-03T05:18:27
+STU_2000,University,1,Undergraduate,English,2025-11-03T05:18:27
